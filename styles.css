@@ -1742,3 +1742,18 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 .titulo-visible {
   opacity: 1;
 }
+
+
+@media (max-width: 768px) {
+  /* Estilos para pantallas pequeñas (móviles) */
+  .titulo-animado {
+      font-size: 2.5em; /* Tamaño de fuente más grande para móviles */
+  }
+}
+
+@media (min-width: 769px) {
+  /* Estilos para pantallas grandes (escritorio) */
+  .titulo-animado {
+      font-size: 2em; /* Tamaño de fuente para escritorio */
+  }
+}
