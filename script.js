@@ -13,21 +13,21 @@ sweetAlertScript.onload = () => {
     function showLoveMessages() {
         Swal.fire({
             title: '❤️',
-            text: 'Eres la persona más especial para mí.',
+            text: 'Eres la historia más bonita que el destino escribió en mi vida',
             //icon: 'info',
             showConfirmButton: true,
             confirmButtonText: 'Siguiente'
         }).then(() => {
             Swal.fire({
                 title: '❤️',
-                text: 'Gracias por cada momento compartido.',
+                text: 'Gracias por esos lindos momentos.',
                 //icon: 'info',
                 showConfirmButton: true,
                 confirmButtonText: 'Siguiente'
             }).then(() => {
                 Swal.fire({
                     title: '❤️',
-                    text: 'Te adoro con todo mi corazón ❤️.',
+                    text: '!!!!!!!!!!!!❤️.',
                     //icon: 'info',
                     showConfirmButton: true,
                     confirmButtonText: 'Empezar'
