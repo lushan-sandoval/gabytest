@@ -1732,7 +1732,7 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 }
 
 #titulo1 {
-  top: 20%; /* Posición del primer título */
+  top: 10%; /* Posición del primer título */
 }
 
 #titulo2 {
