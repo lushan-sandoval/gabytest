@@ -1736,7 +1736,7 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
 }
 
 #titulo2 {
-  top: 40%; /* Posición del segundo título (debajo del primero) */
+  top: 70%; /* Posición del segundo título (debajo del primero) */
 }
 
 .titulo-visible {
