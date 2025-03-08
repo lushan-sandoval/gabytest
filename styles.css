@@ -1743,6 +1743,12 @@ mask-image: linear-gradient(to top, transparent 40%, #079097 80%) !important;
   opacity: 1;
 }
 
+.allura-regular {
+  font-family: "Allura", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+
 
 @media (max-width: 768px) {
   /* Estilos para pantallas pequeñas (móviles) */
